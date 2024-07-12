@@ -23,4 +23,3 @@
 {{-- Favicon --}}
 <link rel="icon" href="{{ asset('images/logos/main-logo.jpeg') }}" type="image/x-icon">
 <link rel="shortcut icon" href="{{ asset('images/logos/main-logo.jpeg') }}" type="image/x-icon">
-0

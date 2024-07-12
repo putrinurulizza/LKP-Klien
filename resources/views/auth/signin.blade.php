@@ -23,7 +23,7 @@
     <title>Sign In | LKP</title>
 </head>
 
-<body class="bg-dark">
+<body class="bg-dark" style="background: linear-gradient(to right, #a9d6e5, #61a5c2);">
     <!-- container -->
     <div class="container d-flex flex-column">
         <div class="row align-items-center justify-content-center g-0 min-vh-100">

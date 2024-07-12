@@ -28,9 +28,8 @@
                 <div class="card mt-3">
                     <div class="card-body">
                         {{-- tables --}}
-                        <table id="myTable"
-                            class="table table-dark responsive nowrap table-bordered table-striped align-middle"
-                            style="width:100%">
+                        <table id="myTable" class="table responsive nowrap table-bordered table-striped align-middle"
+                            style="width:100%; background: linear-gradient(to right, #a9d6e5, #61a5c2);">
                             <thead>
                                 <tr>
                                     <th>NO</th>

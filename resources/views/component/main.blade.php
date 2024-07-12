@@ -58,7 +58,8 @@
     </style>
 </head>
 
-<body class="d-flex h-100 text-bg-dark">
+<body class="d-flex h-100" style="background: linear-gradient(to right, #a9d6e5, #61a5c2); color: #ffffff;">
+
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         @include('component.nav')
         @yield('content')

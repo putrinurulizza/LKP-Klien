@@ -1,3 +1,3 @@
 <footer class="mt-auto text-white-50 text-center">
-    <p>Laporan Kinerja Pegawai PLN UP3</p>
+    <p style="color: #ffffff;">Laporan Kinerja Pegawai PLN UP3</p>
 </footer>
